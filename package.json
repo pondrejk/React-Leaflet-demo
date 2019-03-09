@@ -65,7 +65,9 @@
     "json-loader": "^0.5.4",
     "leaflet": "^0.7.7",
     "react": "^15.2.1",
-    "react-dom": "^15.2.1"
+    "react-dom": "^15.2.1",
+    "react-bootstrap": "",
+    "bootstrap": ""
   },
   "eslintConfig": {
     "extends": "./config/eslint.js"
